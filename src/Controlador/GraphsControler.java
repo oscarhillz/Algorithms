@@ -3,13 +3,13 @@ package Controlador;
 import Classes.*;
 
 
-public class Graphs{
+public class GraphsControler{
     public static void llenar(){
-        GraphLA graphLA = new Graphs();
+        //GraphLA graphLA = new Graphs();
     }
 
 
     public static void dijkstrap(){
-
+        
     }
 }

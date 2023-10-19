@@ -3,7 +3,7 @@ package Controlador;
 import Algorithms.Sorts.*;
 
 
-public class Sorts {
+public class SortsControler {
     public static int[] llenar(int arr[]){
         for (int i = 0; i < arr.length; i++) {
             arr[arr.length - i - 1] = (int)Math.floor(Math.random() * (100 - 0 + 1) + 0);

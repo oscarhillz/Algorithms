@@ -5,14 +5,10 @@
  */
 
 
-
-
 import java.util.Objects;
 
-/**
- *
- * @author eduardo
- */
+
+
 public class Edge <E>{
     private int peso;
     private Vertex<E> vo;
